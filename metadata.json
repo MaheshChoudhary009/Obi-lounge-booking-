@@ -1,0 +1,5 @@
+{
+  "name": "OBI Lounge AI Concierge",
+  "description": "A powerful, NLP-driven AI agent for booking VIP airport lounge services (Arrival, Departure, Bundles) with intelligent context handling and dynamic market validation.",
+  "requestFramePermissions": []
+}
